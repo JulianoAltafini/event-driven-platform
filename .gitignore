@@ -1,0 +1,9 @@
+# AWS CLI installer
+aws/
+awscliv2.zip
+
+# Local environment
+.env
+
+# OS
+.DS_Store
